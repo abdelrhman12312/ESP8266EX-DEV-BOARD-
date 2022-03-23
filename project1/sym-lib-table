@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "FLASH16M")(type "KiCad")(uri "${KIPRJMOD}/FLASH16M.kicad_sym")(options "")(descr ""))
+)
